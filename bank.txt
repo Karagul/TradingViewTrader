@@ -1,0 +1,2435 @@
+Exchange: 19.715:
+Avalable balance: Binance
+Time: 2018-11-07 23:00:07.958917
+
+Exchange: 2.997:
+Avalable balance: Binance
+Time: 2018-11-08 11:16:30.119247
+
+Exchange: 4.988:
+Avalable balance: Binance
+Time: 2018-11-08 12:01:07.151345
+
+Exchange: 35.964:
+Avalable balance: Binance
+Time: 2018-11-08 16:00:22.239275
+
+Exchange: 2.995:
+Avalable balance: Binance
+Time: 2018-11-08 18:00:12.070750
+
+Exchange: 4.984:
+Avalable balance: Binance
+Time: 2018-11-08 20:30:26.770030
+
+Exchange: 18.697:
+Avalable balance: Binance
+Time: 2018-11-08 23:00:18.083947
+
+Exchange: 72.927:
+Avalable balance: Binance
+Time: 2018-11-09 00:00:17.522907
+
+Exchange: 1.997:
+Avalable balance: Binance
+Time: 2018-11-09 01:00:07.404764
+
+Exchange: 2.996:
+Avalable balance: Binance
+Time: 2018-11-09 01:00:09.262125
+
+Exchange: 4.98:
+Avalable balance: Binance
+Time: 2018-11-09 03:31:05.188394
+
+Exchange: 8.976:
+Avalable balance: Binance
+Time: 2018-11-09 03:31:07.750337
+
+Exchange: BINANCE:
+Avalable balance: 0.00503048
+Time: 2018-11-10 10:01:05.998660
+
+Exchange: BINANCE:
+Avalable balance: 0.00503048
+Time: 2018-11-10 10:06:45.129912
+
+Exchange: BINANCE:
+Avalable balance: 0.00503048
+Time: 2018-11-12 01:10:55.156357
+
+Exchange: 8.991:
+Avalable balance: Binance
+Time: 2018-11-12 22:00:43.655699
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 9
+Time: 2018-11-12 22:00:43.810473
+
+Exchange: 17.982:
+Avalable balance: Binance
+Time: 2018-11-12 22:00:45.431690
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 9
+Time: 2018-11-12 22:00:45.586046
+
+Exchange: 35.662:
+Avalable balance: Binance
+Time: 2018-11-12 22:01:03.969865
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 35
+Time: 2018-11-12 22:01:04.122882
+
+Exchange: 70.627:
+Avalable balance: Binance
+Time: 2018-11-12 22:01:05.863662
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 35
+Time: 2018-11-12 22:01:06.020292
+
+Exchange: 131.868:
+Avalable balance: Binance
+Time: 2018-11-13 00:00:09.996431
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 59
+Time: 2018-11-13 00:00:10.143281
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-13 06:00:42.010304
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-13 06:00:44.022029
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 17
+Time: 2018-11-13 06:01:05.110148
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 70
+Time: 2018-11-13 06:01:07.617564
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-13 06:01:09.830084
+
+Exchange: 0.79898:
+Avalable balance: Binance
+Time: 2018-11-13 08:00:16.010601
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 0
+Time: 2018-11-13 08:00:16.163290
+
+Exchange: 191.808:
+Avalable balance: Binance
+Time: 2018-11-13 08:00:19.206646
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 60
+Time: 2018-11-13 08:00:19.376132
+
+Exchange: 1.13864:
+Avalable balance: Binance
+Time: 2018-11-13 08:00:21.100440
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 0
+Time: 2018-11-13 08:00:21.272192
+
+Exchange: 2.994:
+Avalable balance: Binance
+Time: 2018-11-13 08:01:05.134019
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 2
+Time: 2018-11-13 08:01:05.299231
+
+Exchange: 4.992:
+Avalable balance: Binance
+Time: 2018-11-13 08:01:06.831473
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 2
+Time: 2018-11-13 08:01:07.001237
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 4
+Time: 2018-11-13 11:01:04.537653
+
+Exchange: 35.592:
+Avalable balance: Binance
+Time: 2018-11-13 11:01:06.640093
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 35
+Time: 2018-11-13 11:01:06.781269
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 0
+Time: 2018-11-13 11:01:08.320891
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 35
+Time: 2018-11-13 12:00:15.481979
+
+Exchange: 16.968:
+Avalable balance: Binance
+Time: 2018-11-13 15:01:05.219533
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 8
+Time: 2018-11-13 15:01:05.417804
+
+Exchange: 248.751:
+Avalable balance: Binance
+Time: 2018-11-13 16:00:23.429692
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 57
+Time: 2018-11-13 16:00:23.585888
+
+Exchange: 10.972:
+Avalable balance: Binance
+Time: 2018-11-13 16:00:34.971061
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 10
+Time: 2018-11-13 16:00:35.130635
+
+Exchange: 20.962:
+Avalable balance: Binance
+Time: 2018-11-13 16:00:37.375806
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 10
+Time: 2018-11-13 16:00:37.534202
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 16
+Time: 2018-11-13 16:31:04.672274
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 1
+Time: 2018-11-14 01:05:46.699585
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 0
+Time: 2018-11-14 13:00:29.611308
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-14 16:01:02.399602
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-14 16:01:05.402207
+
+Exchange: BINANCE:
+Avalable balance: 0.00341531
+Time: 2018-11-14 21:17:50.674106
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 0
+Time: 2018-11-14 21:17:55.377373
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 0
+Time: 2018-11-14 21:17:56.943645
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-14 21:36:41.597521
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-14 21:36:46.300001
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-14 21:36:50.722417
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-14 21:36:55.053533
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-14 21:36:59.542123
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-15 02:01:43.760755
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 0
+Time: 2018-11-15 02:01:48.126475
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-15 03:00:09.438609
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-15 05:31:15.182169
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-15 05:31:17.923712
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-15 06:00:20.824801
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-15 06:00:22.830700
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-15 11:01:23.400390
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-15 14:01:15.257102
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-15 14:01:18.837580
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-15 14:31:04.864182
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-15 14:31:06.450989
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 0
+Time: 2018-11-15 15:00:48.836285
+
+Exchange: BINANCE:
+Avalable balance: 0.00341531
+Time: 2018-11-15 15:33:35.388140
+
+Exchange: BINANCE:
+Avalable balance: 0.0069
+Time: 2018-11-15 15:36:58.208942
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-15 16:00:34.086767
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-15 16:00:35.935643
+
+Exchange: BINANCE:
+Avalable balance: 0.0069
+Time: 2018-11-15 18:53:00.978587
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-15 18:59:34.269114
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-15 19:08:00.302103
+
+Exchange: 7.985:
+Avalable balance: Binance
+Time: 2018-11-15 19:08:08.205163
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 7
+Time: 2018-11-15 19:08:08.634816
+
+Exchange: 14.978:
+Avalable balance: Binance
+Time: 2018-11-15 19:08:11.380259
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 7
+Time: 2018-11-15 19:08:11.629362
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-15 19:18:24.726637
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-15 19:18:56.164524
+
+Exchange: 97.495:
+Avalable balance: Binance
+Time: 2018-11-15 19:19:02.025208
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 97
+Time: 2018-11-15 19:19:02.177979
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-15 19:20:59.541110
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 97
+Time: 2018-11-15 19:21:25.895584
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-15 19:22:16.521964
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-15 19:24:47.751606
+
+Exchange: 97.398:
+Avalable balance: Binance
+Time: 2018-11-15 19:26:08.961214
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 97
+Time: 2018-11-15 19:26:11.507576
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-15 19:27:35.440741
+
+Exchange: 22.946:
+Avalable balance: Binance
+Time: 2018-11-15 19:31:42.732627
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 22
+Time: 2018-11-15 19:31:42.900590
+
+Exchange: 44.924:
+Avalable balance: Binance
+Time: 2018-11-15 19:31:44.556221
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 22
+Time: 2018-11-15 19:31:46.385205
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 44
+Time: 2018-11-15 21:30:28.618588
+
+Exchange: 14.981:
+Avalable balance: Binance
+Time: 2018-11-15 21:30:30.470313
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 14
+Time: 2018-11-15 21:30:30.637389
+
+Exchange: 28.967:
+Avalable balance: Binance
+Time: 2018-11-15 21:30:32.507196
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 14
+Time: 2018-11-15 21:30:32.669717
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 97
+Time: 2018-11-15 23:00:36.375849
+
+Exchange: 255.617:
+Avalable balance: Binance
+Time: 2018-11-16 00:00:12.845533
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 134
+Time: 2018-11-16 00:00:12.999067
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 28
+Time: 2018-11-16 00:00:59.115639
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-16 00:01:01.985255
+
+Exchange: 0.98766:
+Avalable balance: Binance
+Time: 2018-11-16 00:01:19.847076
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 0
+Time: 2018-11-16 00:01:20.002961
+
+Exchange: 1.96668:
+Avalable balance: Binance
+Time: 2018-11-16 00:01:23.072011
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 0
+Time: 2018-11-16 00:01:23.226294
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-16 00:31:16.298547
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-16 11:34:03.610216
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-16 12:21:39.318140
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-16 12:36:54.125015
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-16 13:00:59.657204
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-16 13:09:31.828551
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-16 13:19:35.118769
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-16 14:01:00.537997
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-16 15:30:08.367943
+
+Exchange: 23.901:
+Avalable balance: Binance
+Time: 2018-11-16 17:31:05.579630
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 23
+Time: 2018-11-16 17:31:05.751642
+
+Exchange: 11.972:
+Avalable balance: Binance
+Time: 2018-11-16 18:01:04.561050
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-16 18:01:04.710408
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 23
+Time: 2018-11-16 19:01:05.438085
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-16 19:01:06.977057
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 11
+Time: 2018-11-16 20:00:59.306486
+
+Exchange: 106.292:
+Avalable balance: Binance
+Time: 2018-11-17 00:01:04.121107
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 106
+Time: 2018-11-17 00:01:04.267929
+
+Exchange: 6.966:
+Avalable balance: Binance
+Time: 2018-11-17 01:00:14.320769
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-17 01:00:14.501127
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 106
+Time: 2018-11-17 02:00:08.682052
+
+Exchange: 48.934:
+Avalable balance: Binance
+Time: 2018-11-17 02:00:28.680499
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 28
+Time: 2018-11-17 02:00:28.835863
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-17 03:01:05.330043
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 0
+Time: 2018-11-17 03:01:06.883190
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 48
+Time: 2018-11-17 04:00:06.637719
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-17 04:00:08.204630
+
+Exchange: 106.186:
+Avalable balance: Binance
+Time: 2018-11-17 05:00:43.874188
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 106
+Time: 2018-11-17 05:00:44.020883
+
+Exchange: 28.906:
+Avalable balance: Binance
+Time: 2018-11-17 06:00:14.802291
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 28
+Time: 2018-11-17 06:00:14.968985
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 255
+Time: 2018-11-17 08:00:08.582657
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 28
+Time: 2018-11-17 08:00:32.375816
+
+Exchange: 14.953:
+Avalable balance: Binance
+Time: 2018-11-17 08:01:04.530062
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 14
+Time: 2018-11-17 08:01:04.688784
+
+Exchange: 24.877:
+Avalable balance: Binance
+Time: 2018-11-17 08:01:07.829841
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 24
+Time: 2018-11-17 08:01:07.990259
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 24
+Time: 2018-11-17 09:31:05.298990
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 106
+Time: 2018-11-17 10:00:36.757966
+
+Exchange: 28.878:
+Avalable balance: Binance
+Time: 2018-11-17 10:00:50.858569
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 28
+Time: 2018-11-17 10:00:51.007919
+
+Exchange: 6.96:
+Avalable balance: Binance
+Time: 2018-11-17 11:00:28.187798
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-17 11:00:28.354498
+
+Exchange: 24.853:
+Avalable balance: Binance
+Time: 2018-11-17 14:00:50.853965
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 24
+Time: 2018-11-17 14:00:51.009675
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-11-17 16:00:06.241362
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 0
+Time: 2018-11-17 16:00:08.364951
+
+Exchange: 107.079:
+Avalable balance: Binance
+Time: 2018-11-17 17:00:07.936791
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 107
+Time: 2018-11-17 17:00:08.090272
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 24
+Time: 2018-11-17 22:30:47.270135
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-11-18 00:00:06.760165
+
+Exchange: 0.86582:
+Avalable balance: Binance
+Time: 2018-11-18 00:00:18.157858
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 0
+Time: 2018-11-18 00:00:18.320967
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 107
+Time: 2018-11-18 01:01:00.392613
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-18 01:01:04.775357
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 14
+Time: 2018-11-18 02:01:04.490195
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 28
+Time: 2018-11-18 04:01:05.721400
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-18 04:01:07.340384
+
+Exchange: 105.973:
+Avalable balance: Binance
+Time: 2018-11-18 06:00:23.608812
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 106
+Time: 2018-11-18 06:00:23.761862
+
+Exchange: 211.867:
+Avalable balance: Binance
+Time: 2018-11-18 06:00:25.322594
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 106
+Time: 2018-11-18 06:00:25.462517
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 0
+Time: 2018-11-18 08:00:09.309636
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-11-18 08:00:17.133828
+
+Exchange: 23.83:
+Avalable balance: Binance
+Time: 2018-11-18 09:01:04.861785
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 23
+Time: 2018-11-18 09:01:05.033732
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 23
+Time: 2018-11-18 10:31:03.167425
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-18 10:31:04.877104
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 211
+Time: 2018-11-18 11:00:19.753359
+
+Exchange: 6.954:
+Avalable balance: Binance
+Time: 2018-11-18 11:00:36.070340
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-18 11:00:36.459415
+
+Exchange: 23.807:
+Avalable balance: Binance
+Time: 2018-11-18 11:00:47.138496
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 23
+Time: 2018-11-18 11:00:47.295069
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-18 11:29:06.228021
+
+Exchange: 106.761:
+Avalable balance: Binance
+Time: 2018-11-18 12:00:29.534521
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 106
+Time: 2018-11-18 12:00:29.693294
+
+Exchange: 14.939:
+Avalable balance: Binance
+Time: 2018-11-18 12:01:04.555705
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 14
+Time: 2018-11-18 12:01:04.717325
+
+Exchange: 28.85:
+Avalable balance: Binance
+Time: 2018-11-18 14:01:04.348797
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 28
+Time: 2018-11-18 14:01:04.862934
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 23
+Time: 2018-11-18 15:01:16.203464
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 106
+Time: 2018-11-18 16:00:38.616642
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-11-18 16:00:43.633834
+
+Exchange: 23.784:
+Avalable balance: Binance
+Time: 2018-11-18 16:31:05.820253
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 23
+Time: 2018-11-18 16:31:05.993228
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 23
+Time: 2018-11-18 17:31:04.478403
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 28
+Time: 2018-11-18 18:00:15.035829
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-18 18:00:16.708425
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 14
+Time: 2018-11-18 18:00:18.908172
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-18 18:00:20.745412
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-18 18:01:04.689580
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 0
+Time: 2018-11-18 18:01:06.316939
+
+Exchange: 22.762:
+Avalable balance: Binance
+Time: 2018-11-18 20:30:12.772189
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 22
+Time: 2018-11-18 20:30:12.928544
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 22
+Time: 2018-11-18 21:30:38.576776
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-18 22:57:43.081494
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-18 22:58:08.418845
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-18 22:59:42.469011
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-18 23:01:25.250620
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-18 23:02:30.787697
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-22 09:22:54.678832
+
+Exchange: 135.697:
+Avalable balance: Binance
+Time: 2018-11-22 11:00:28.674537
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 135
+Time: 2018-11-22 11:00:28.838147
+
+Exchange: 6.924:
+Avalable balance: Binance
+Time: 2018-11-22 12:00:29.940542
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-22 12:00:30.096340
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 135
+Time: 2018-11-22 12:01:05.624878
+
+Exchange: 133.564:
+Avalable balance: Binance
+Time: 2018-11-22 14:00:08.104181
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 133
+Time: 2018-11-22 14:00:08.260461
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-22 14:01:06.462647
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 133
+Time: 2018-11-22 16:00:20.668210
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-22 16:00:24.771170
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-22 17:00:30.886023
+
+Exchange: 6.918:
+Avalable balance: Binance
+Time: 2018-11-22 21:01:04.201336
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-22 21:01:04.357923
+
+Exchange: 26.419:
+Avalable balance: Binance
+Time: 2018-11-22 23:31:05.333413
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-22 23:31:05.494493
+
+Exchange: 138.426:
+Avalable balance: Binance
+Time: 2018-11-23 00:00:40.293557
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 138
+Time: 2018-11-23 00:00:40.464551
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-23 02:01:04.809290
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-23 02:01:07.216322
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 138
+Time: 2018-11-23 03:00:26.648372
+
+Exchange: 26.393:
+Avalable balance: Binance
+Time: 2018-11-23 03:30:58.006379
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-23 03:30:58.161944
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-23 05:30:40.339271
+
+Exchange: 26.367:
+Avalable balance: Binance
+Time: 2018-11-23 07:00:11.605280
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-23 07:00:11.755512
+
+Exchange: 139.287:
+Avalable balance: Binance
+Time: 2018-11-23 07:00:21.043814
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 139
+Time: 2018-11-23 07:00:21.206783
+
+Exchange: 0.98385:
+Avalable balance: Binance
+Time: 2018-11-23 08:00:22.996381
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 0
+Time: 2018-11-23 08:00:23.147923
+
+Exchange: 35.715:
+Avalable balance: Binance
+Time: 2018-11-23 08:01:04.966950
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 35
+Time: 2018-11-23 08:01:05.122908
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-23 08:31:05.163403
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 139
+Time: 2018-11-23 10:01:06.384557
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-23 10:01:07.934002
+
+Exchange: 26.341:
+Avalable balance: Binance
+Time: 2018-11-23 11:30:19.526460
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-23 11:30:19.693101
+
+Exchange: 140.147:
+Avalable balance: Binance
+Time: 2018-11-23 12:00:15.616622
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 140
+Time: 2018-11-23 12:00:15.784742
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-23 12:31:05.206189
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-23 12:31:06.847939
+
+Exchange: 14.855:
+Avalable balance: Binance
+Time: 2018-11-23 16:00:06.720809
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 14
+Time: 2018-11-23 16:00:06.880828
+
+Exchange: 26.315:
+Avalable balance: Binance
+Time: 2018-11-23 17:00:12.080697
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-23 17:00:12.236411
+
+Exchange: 6.912:
+Avalable balance: Binance
+Time: 2018-11-23 17:01:04.158485
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-23 17:01:04.312206
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-23 18:00:41.021332
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 35
+Time: 2018-11-23 20:00:17.482535
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 140
+Time: 2018-11-23 23:01:00.672956
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-23 23:01:02.329190
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 14
+Time: 2018-11-24 00:01:05.306266
+
+Exchange: 26.289:
+Avalable balance: Binance
+Time: 2018-11-24 00:30:36.070884
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-24 00:30:36.239447
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-24 01:01:04.919047
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-24 01:30:51.774676
+
+Exchange: 6.906:
+Avalable balance: Binance
+Time: 2018-11-24 05:01:05.835861
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-24 05:01:05.988349
+
+Exchange: 35.68:
+Avalable balance: Binance
+Time: 2018-11-24 06:00:30.017011
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 35
+Time: 2018-11-24 06:00:30.163104
+
+Exchange: 26.263:
+Avalable balance: Binance
+Time: 2018-11-24 06:01:03.530834
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-24 06:01:03.693489
+
+Exchange: 134.013:
+Avalable balance: Binance
+Time: 2018-11-24 09:00:37.433801
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 134
+Time: 2018-11-24 09:00:37.590867
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-24 09:01:04.808539
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 35
+Time: 2018-11-24 10:01:05.477081
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-24 10:01:07.142555
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-24 11:31:06.265894
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-24 11:31:07.793368
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 134
+Time: 2018-11-24 12:01:05.089971
+
+Exchange: 6.9:
+Avalable balance: Binance
+Time: 2018-11-24 14:00:24.964802
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-24 14:00:25.127273
+
+Exchange: 26.237:
+Avalable balance: Binance
+Time: 2018-11-24 14:00:40.349874
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-24 14:00:40.512389
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-24 15:30:37.821302
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-24 15:30:39.351357
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 0
+Time: 2018-11-24 16:00:17.268450
+
+Exchange: 35.645:
+Avalable balance: Binance
+Time: 2018-11-24 18:01:04.520536
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 35
+Time: 2018-11-24 18:01:04.657765
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-24 18:01:06.483232
+
+Exchange: 15.84:
+Avalable balance: Binance
+Time: 2018-11-24 18:01:08.394969
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-24 18:01:08.553928
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 35
+Time: 2018-11-24 20:00:43.302442
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-24 20:00:44.842703
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-24 20:01:04.210430
+
+Exchange: 28.209:
+Avalable balance: Binance
+Time: 2018-11-24 20:31:04.046723
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-24 20:31:04.204670
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-24 21:30:47.376807
+
+Exchange: 28.181:
+Avalable balance: Binance
+Time: 2018-11-24 23:01:04.423035
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-24 23:01:04.614617
+
+Exchange: 153.859:
+Avalable balance: Binance
+Time: 2018-11-25 00:01:04.835876
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 154
+Time: 2018-11-25 00:01:04.995202
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 00:01:06.791732
+
+Exchange: 28.153:
+Avalable balance: Binance
+Time: 2018-11-25 01:31:04.515259
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 01:31:04.883264
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 153
+Time: 2018-11-25 02:00:13.100715
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-25 02:00:14.587226
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 02:01:03.931651
+
+Exchange: 6.894:
+Avalable balance: Binance
+Time: 2018-11-25 03:01:05.579855
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-25 03:01:05.723822
+
+Exchange: 28.125:
+Avalable balance: Binance
+Time: 2018-11-25 04:01:04.460868
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 04:01:04.611482
+
+Exchange: 151.708:
+Avalable balance: Binance
+Time: 2018-11-25 04:01:06.559795
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 151
+Time: 2018-11-25 04:01:06.778436
+
+Exchange: 37.608:
+Avalable balance: Binance
+Time: 2018-11-25 06:00:15.142367
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 37
+Time: 2018-11-25 06:00:15.280069
+
+Exchange: 15.825:
+Avalable balance: Binance
+Time: 2018-11-25 06:01:04.253282
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-25 06:01:04.398039
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 07:01:04.793127
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 151
+Time: 2018-11-25 08:01:04.576069
+
+Exchange: 28.097:
+Avalable balance: Binance
+Time: 2018-11-25 08:31:04.550180
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 08:31:04.694622
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 09:30:22.094225
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-25 10:00:13.211888
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-25 10:00:30.937145
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 37
+Time: 2018-11-25 12:00:29.656356
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-25 12:00:31.182941
+
+Exchange: 28.069:
+Avalable balance: Binance
+Time: 2018-11-25 12:30:13.947370
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 12:30:14.127080
+
+Exchange: 151.557:
+Avalable balance: Binance
+Time: 2018-11-25 13:00:36.185417
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 151
+Time: 2018-11-25 13:00:36.327386
+
+Exchange: 6.888:
+Avalable balance: Binance
+Time: 2018-11-25 14:00:22.364414
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-25 14:00:22.567895
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 151
+Time: 2018-11-25 16:00:31.241737
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-25 16:00:33.040178
+
+Exchange: 38.57:
+Avalable balance: Binance
+Time: 2018-11-25 16:00:45.888447
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 38
+Time: 2018-11-25 16:00:46.031291
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 16:31:03.877151
+
+Exchange: 151.406:
+Avalable balance: Binance
+Time: 2018-11-25 18:01:05.095137
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 151
+Time: 2018-11-25 18:01:05.231427
+
+Exchange: 15.81:
+Avalable balance: Binance
+Time: 2018-11-25 18:01:08.693724
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-25 18:01:08.846353
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-25 20:00:18.007394
+
+Exchange: 28.041:
+Avalable balance: Binance
+Time: 2018-11-25 20:01:03.656827
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 20:01:03.803289
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 21:30:32.609752
+
+Exchange: 28.013:
+Avalable balance: Binance
+Time: 2018-11-25 22:30:06.035634
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-25 22:30:06.218236
+
+Exchange: 6.882:
+Avalable balance: Binance
+Time: 2018-11-26 00:00:12.492210
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-26 00:00:12.692139
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-26 00:01:05.682970
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 151
+Time: 2018-11-26 02:00:17.078787
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-26 02:00:19.363829
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 38
+Time: 2018-11-26 02:00:21.805921
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-26 02:00:23.682979
+
+Exchange: 27.985:
+Avalable balance: Binance
+Time: 2018-11-26 03:00:11.725372
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 28
+Time: 2018-11-26 03:00:11.862134
+
+Exchange: 1.01284:
+Avalable balance: Binance
+Time: 2018-11-26 04:00:20.831784
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 1
+Time: 2018-11-26 04:00:21.035006
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-26 04:01:05.750868
+
+Exchange: 149.257:
+Avalable balance: Binance
+Time: 2018-11-26 05:00:13.938774
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 149
+Time: 2018-11-26 05:00:14.078803
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-26 06:01:06.744957
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 149
+Time: 2018-11-26 07:01:00.917982
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-26 07:01:02.536101
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 27
+Time: 2018-11-26 08:00:17.481100
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 1
+Time: 2018-11-26 08:00:33.074637
+
+Exchange: 6.876:
+Avalable balance: Binance
+Time: 2018-11-26 08:01:04.383841
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-26 08:01:04.533532
+
+Exchange: 154.103:
+Avalable balance: Binance
+Time: 2018-11-26 10:00:20.691210
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 154
+Time: 2018-11-26 10:00:20.830786
+
+Exchange: 27.958:
+Avalable balance: Binance
+Time: 2018-11-26 10:00:53.346731
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 27
+Time: 2018-11-26 10:00:53.484428
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-26 11:01:05.120905
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 27
+Time: 2018-11-26 11:30:27.978253
+
+Exchange: 15.795:
+Avalable balance: Binance
+Time: 2018-11-26 12:00:07.640660
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-26 12:00:07.794085
+
+Exchange: 6.87:
+Avalable balance: Binance
+Time: 2018-11-26 13:00:55.353583
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-26 13:00:55.496011
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-26 15:01:05.358917
+
+Exchange: 27.931:
+Avalable balance: Binance
+Time: 2018-11-26 17:30:14.151479
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 27
+Time: 2018-11-26 17:30:14.307202
+
+Exchange: 40.53:
+Avalable balance: Binance
+Time: 2018-11-26 18:00:30.483169
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 40
+Time: 2018-11-26 18:00:30.632895
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 154
+Time: 2018-11-26 20:00:26.310160
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-26 20:00:27.887070
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 40
+Time: 2018-11-26 22:00:16.510939
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-26 22:00:20.814997
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 27
+Time: 2018-11-26 22:00:39.967100
+
+Exchange: 148.954:
+Avalable balance: Binance
+Time: 2018-11-26 22:00:51.478047
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 149
+Time: 2018-11-26 22:00:51.612890
+
+Exchange: 38.492:
+Avalable balance: Binance
+Time: 2018-11-27 00:00:30.473732
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 38
+Time: 2018-11-27 00:00:30.619811
+
+Exchange: 26.905:
+Avalable balance: Binance
+Time: 2018-11-27 00:30:35.678377
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-27 00:30:35.829152
+
+Exchange: 6.864:
+Avalable balance: Binance
+Time: 2018-11-27 01:01:04.693797
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-27 01:01:04.844828
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 26
+Time: 2018-11-27 01:30:08.757163
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-27 02:01:05.130855
+
+Exchange: 27.878:
+Avalable balance: Binance
+Time: 2018-11-27 04:00:11.560059
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 27
+Time: 2018-11-27 04:00:11.705759
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-27 04:27:41.519167
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 27
+Time: 2018-11-27 05:00:19.673118
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 148
+Time: 2018-11-27 05:00:23.370333
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-27 05:00:25.435848
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-27 16:02:42.432564
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 38
+Time: 2018-11-27 16:02:51.980935
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-27 16:02:55.750322
+
+Exchange: 6.858:
+Avalable balance: Binance
+Time: 2018-11-27 16:02:59.209708
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-27 16:02:59.348584
+
+Exchange: 15.78:
+Avalable balance: Binance
+Time: 2018-11-27 16:03:02.929764
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-27 16:03:03.081661
+
+Exchange: 1.00184:
+Avalable balance: Binance
+Time: 2018-11-27 16:03:06.584750
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 1
+Time: 2018-11-27 16:03:06.752715
+
+Exchange: 139.815:
+Avalable balance: Binance
+Time: 2018-11-27 20:00:31.625140
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 139
+Time: 2018-11-27 20:00:31.777425
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-11-27 20:01:04.872421
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-27 20:01:06.454007
+
+Exchange: BINANCE:
+Coin: KNCBTC
+Amount: 0
+Time: 2018-11-27 21:00:11.687982
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-27 21:00:38.058485
+
+Exchange: 38.454:
+Avalable balance: Binance
+Time: 2018-11-27 22:01:01.873761
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 38
+Time: 2018-11-27 22:01:02.039238
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-11-29 23:40:10.483654
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 139
+Time: 2018-11-29 23:40:24.003816
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-11-29 23:40:29.772157
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 38
+Time: 2018-11-29 23:40:40.911645
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-11-29 23:40:46.525175
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-29 23:40:51.969208
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 1
+Time: 2018-11-29 23:41:08.337240
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 124
+Time: 2018-11-30 00:00:16.943756
+
+Exchange: 7.851:
+Avalable balance: Binance
+Time: 2018-11-30 01:00:27.407246
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 7
+Time: 2018-11-30 01:00:27.608946
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-30 02:01:05.148941
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-30 02:01:07.255036
+
+Exchange: 137.678:
+Avalable balance: Binance
+Time: 2018-11-30 06:00:24.069689
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 137
+Time: 2018-11-30 06:00:24.236867
+
+Exchange: 37.417:
+Avalable balance: Binance
+Time: 2018-11-30 08:00:15.807002
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 37
+Time: 2018-11-30 08:00:15.959863
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-11-30 08:00:21.305009
+
+Exchange: 13.767:
+Avalable balance: Binance
+Time: 2018-11-30 10:00:10.350380
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 13
+Time: 2018-11-30 10:00:10.515567
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 13
+Time: 2018-11-30 14:00:10.163393
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-11-30 14:00:11.865444
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 137
+Time: 2018-11-30 15:00:39.253737
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-11-30 16:00:06.336383
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 7
+Time: 2018-11-30 16:01:05.473520
+
+Exchange: 133.545:
+Avalable balance: Binance
+Time: 2018-11-30 17:00:41.547306
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 133
+Time: 2018-11-30 17:00:41.709693
+
+Exchange: 6.845:
+Avalable balance: Binance
+Time: 2018-11-30 19:00:13.155819
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-11-30 19:00:13.315273
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 37
+Time: 2018-11-30 20:01:04.560463
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-12-03 20:47:16.565104
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-12-03 20:47:33.339660
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-12-03 20:47:37.385678
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-12-03 20:47:41.532888
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-12-03 20:47:45.673809
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-12-03 20:47:50.054671
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-03 20:47:54.212402
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 133
+Time: 2018-12-03 20:47:58.772768
+
+Exchange: 6.839:
+Avalable balance: Binance
+Time: 2018-12-03 22:01:13.930416
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-12-03 22:01:14.096682
+
+Exchange: 118.427:
+Avalable balance: Binance
+Time: 2018-12-04 00:00:16.982149
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 118
+Time: 2018-12-04 00:00:17.137889
+
+Exchange: 0.767:
+Avalable balance: Binance
+Time: 2018-12-04 00:00:26.342986
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-12-04 00:00:26.500927
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-04 00:00:30.714037
+
+Exchange: 39.378:
+Avalable balance: Binance
+Time: 2018-12-04 02:00:15.605885
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 39
+Time: 2018-12-04 02:00:15.764010
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 118
+Time: 2018-12-04 03:00:07.833341
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 15
+Time: 2018-12-04 04:01:05.789094
+
+Exchange: BINANCE:
+Coin: ENGBTC
+Amount: 0
+Time: 2018-12-04 04:01:07.374060
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-12-04 20:19:27.719312
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-12-04 20:19:29.342072
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-12-04 20:20:09.347482
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-12-04 20:20:53.058516
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-12-04 20:24:07.501478
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-04 20:24:15.706959
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-12-04 20:24:23.582066
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 39
+Time: 2018-12-04 20:24:29.352764
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-12-04 20:24:37.960497
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-04 20:24:42.227233
+
+Exchange: 119.308:
+Avalable balance: Binance
+Time: 2018-12-04 21:00:20.960448
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 119
+Time: 2018-12-04 21:00:21.141341
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 119
+Time: 2018-12-04 22:00:12.555706
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-12-04 22:00:14.493374
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-05 00:00:21.347590
+
+Exchange: 6.833:
+Avalable balance: Binance
+Time: 2018-12-05 01:01:04.588730
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 6
+Time: 2018-12-05 01:01:04.738833
+
+Exchange: 38.34:
+Avalable balance: Binance
+Time: 2018-12-05 02:01:05.506503
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 38
+Time: 2018-12-05 02:01:05.679281
+
+Exchange: 121.187:
+Avalable balance: Binance
+Time: 2018-12-05 05:00:28.453397
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 121
+Time: 2018-12-05 05:00:28.635989
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 121
+Time: 2018-12-05 07:00:43.042276
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-05 08:01:05.789760
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 38
+Time: 2018-12-05 10:01:06.012678
+
+Exchange: BINANCE:
+Coin: BQXBTC
+Amount: 0
+Time: 2018-12-05 10:01:08.045305
+
+Exchange: 13.826:
+Avalable balance: Binance
+Time: 2018-12-05 12:01:04.338619
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 7
+Time: 2018-12-05 12:01:04.487971
+
+Exchange: BINANCE:
+Coin: BNTBTC
+Amount: 13
+Time: 2018-12-05 14:00:10.517268
+
+Exchange: 127.06:
+Avalable balance: Binance
+Time: 2018-12-05 14:01:05.546592
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 127
+Time: 2018-12-05 14:01:05.708162
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-05 16:00:05.061439
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 127
+Time: 2018-12-05 20:00:16.487998
+
+Exchange: BINANCE:
+Coin: ASTBTC
+Amount: 0
+Time: 2018-12-05 20:00:18.236802
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-06 00:00:19.546170
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-06 08:00:24.969319
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-06 16:00:04.160000
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-07 00:00:56.544204
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 0
+Time: 2018-12-07 08:00:13.741160
+
+Exchange: 97.396:
+Avalable balance: Binance
+Time: 2018-12-07 16:00:04.816276
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 97
+Time: 2018-12-07 16:00:04.959539
+
+Exchange: 195.298:
+Avalable balance: Binance
+Time: 2018-12-10 08:00:51.511688
+
+Exchange: BINANCE:
+Coin: QKCBTC
+Amount: 98
+Time: 2018-12-10 08:00:51.656197
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2018-12-16 18:45:19.336073
+

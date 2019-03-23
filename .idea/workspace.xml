@@ -1,65 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/gmailHandler.py" line="92" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e341a2d9-eece-4551-ac96-b6f7c5a522e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binance2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TelegramAlerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/requirements-docs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/_static/.placeholder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/changelog.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/ptb-logo-orange.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/ptb-logo-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/ptb-logo_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.animation.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.audio.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.bot.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.callbackgame.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.callbackquery.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.chat.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.chataction.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.chatmember.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.chatphoto.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.choseninlineresult.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.constants.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.contact.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.credentials.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.datacredentials.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.document.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.encryptedcredentials.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.encryptedpassportelement.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.error.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.basepersistence.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.callbackcontext.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.callbackqueryhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.choseninlineresulthandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.commandhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.conversationhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.delayqueue.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.dictpersistence.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.dispatcher.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.filters.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.handler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.inlinequeryhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.job.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.jobqueue.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.messagehandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.messagequeue.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.picklepersistence.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.precheckoutqueryhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.prefixhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.regexhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.shippingqueryhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.stringcommandhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.stringregexhandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.typehandler.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.ext.updater.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.file.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.filecredentials.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.forcereply.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.game.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.gamehighscore.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.iddocumentdata.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinekeyboardbutton.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinekeyboardmarkup.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequery.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresult.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultarticle.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultaudio.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultcachedaudio.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultcacheddocument.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultcachedgif.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultcachedmpeg4gif.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultcachedphoto.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultcachedsticker.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultcachedvideo.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultcachedvoice.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultcontact.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultdocument.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultgame.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultgif.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultlocation.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultmpeg4gif.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultphoto.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultvenue.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultvideo.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inlinequeryresultvoice.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputcontactmessagecontent.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputfile.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputlocationmessagecontent.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputmedia.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputmediaanimation.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputmediaaudio.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputmediadocument.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputmediaphoto.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputmediavideo.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputmessagecontent.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputtextmessagecontent.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.inputvenuemessagecontent.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.invoice.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.keyboardbutton.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.labeledprice.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.location.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.maskposition.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.message.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.messageentity.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.orderinfo.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.parsemode.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.passportdata.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.passportelementerror.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.passportelementerrordatafield.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.passportelementerrorfile.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.passportelementerrorfiles.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.passportelementerrorfrontside.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.passportelementerrorreverseside.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.passportfile.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.personaldetails.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.photosize.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.precheckoutquery.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.replykeyboardmarkup.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.replykeyboardremove.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.replymarkup.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.residentialaddress.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.securedata.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.shippingaddress.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.shippingoption.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.shippingquery.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.sticker.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.stickerset.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.successfulpayment.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.telegramobject.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.update.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.user.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.userprofilephotos.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.utils.helpers.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.utils.promise.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.utils.request.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.utils.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.venue.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.video.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.videonote.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.voice.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/telegram.webhookinfo.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/conversationbot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/conversationbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/conversationbot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/conversationbot2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/echobot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/echobot2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/inlinebot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/inlinekeyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/passportbot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/passportbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/paymentbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/persistentconversationbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/timerbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/bots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data/game.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data/telegram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data/telegram.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data/telegram_no_standard_header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data/telegram_sticker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data/telegram_test_channel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data/thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data/测试.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_animation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_audio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_callbackcontext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_callbackquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_callbackqueryhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_chat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_chatmember.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_choseninlineresult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_choseninlineresulthandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_commandhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_conversationhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_dispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_encryptedcredentials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_encryptedpassportelement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_forcereply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_gamehighscore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinekeyboardbutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinekeyboardmarkup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultarticle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultaudio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultcachedaudio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultcacheddocument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultcachedgif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultcachedmpeg4gif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultcachedphoto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultcachedsticker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultcachedvideo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultcachedvoice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultcontact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultdocument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultgif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultlocation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultmpeg4gif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultphoto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultvenue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultvideo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inlinequeryresultvoice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inputcontactmessagecontent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inputfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inputlocationmessagecontent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inputmedia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inputtextmessagecontent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_inputvenuemessagecontent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_invoice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jobqueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_keyboardbutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_labeledprice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_location.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_messageentity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_messagehandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_messagequeue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_official.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_orderinfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_parsemode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportelementerrordatafield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportelementerrorfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportelementerrorfiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportelementerrorfrontside.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportelementerrorreverseside.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportelementerrorselfie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportelementerrortranslationfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportelementerrortranslationfiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportelementerrorunspecified.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_passportfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_persistence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_photo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_precheckoutquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_precheckoutqueryhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_regexhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_replykeyboardmarkup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_replykeyboardremove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_shippingaddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_shippingoption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_shippingquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_shippingqueryhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_sticker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_stringcommandhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_stringregexhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_successfulpayment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_telegramobject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_typehandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_updater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_userprofilephotos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_venue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_videonote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_voice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/travis_fold.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_KEYS/sampleJSON.json" beforeDir="false" afterPath="$PROJECT_DIR$/API_KEYS/sampleJSON.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinanceTrader.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinanceTrader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings_To_Remove.dat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmailHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gmailHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/.idea/market_maker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/_settings_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/auth/APIKeyAuth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/auth/APIKeyAuthWithExpires.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/auth/AccessTokenAuth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/auth/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/bitmex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/custom_strategy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/_settings_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/auth/APIKeyAuth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/auth/APIKeyAuthWithExpires.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/auth/AccessTokenAuth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/auth/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/bitmex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/market_maker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/utils/constants.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/utils/dotdict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/utils/errors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/utils/log.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/utils/math.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/ws/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/market_maker/ws/ws_thread.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/utils/constants.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/utils/dotdict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/utils/errors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/utils/log.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/utils/math.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/ws/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/market_maker/ws/ws_thread.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/marketmaker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/setup.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/test/websocket-apikey-auth-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market maker master/test/websocket-multiplexing-test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/market.py" beforeDir="false" afterPath="$PROJECT_DIR$/market.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/token.json" beforeDir="false" afterPath="$PROJECT_DIR$/token.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,53 +300,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/TradingViewTrader$Unnamed__1_.coverage" NAME="Unnamed (1) Coverage Results" MODIFIED="1540164589121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TradingViewTrader$main.coverage" NAME="main Coverage Results" MODIFIED="1553370526689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TradingViewTrader$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1540757540892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TradingViewTrader$main.coverage" NAME="main Coverage Results" MODIFIED="1540759644101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TradingViewTrader$Unnamed__1_.coverage" NAME="Unnamed (1) Coverage Results" MODIFIED="1540164589121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1464557604">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="24" />
-          <entry key="dummy" value="174" />
+          <entry key="dummy" value="357" />
           <entry key="json" value="10" />
-          <entry key="py" value="1400" />
-          <entry key="txt" value="422" />
+          <entry key="py" value="2636" />
+          <entry key="txt" value="499" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="10" />
-          <entry key="PLAIN_TEXT" value="596" />
-          <entry key="Python" value="1424" />
+          <entry key="PLAIN_TEXT" value="856" />
+          <entry key="Python" value="2660" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="json" value="3" />
-          <entry key="py" value="16" />
-          <entry key="txt" value="4" />
+          <entry key="json" value="8" />
+          <entry key="py" value="70" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="3" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="16" />
+          <entry key="JSON" value="8" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
+          <entry key="git.branch.checkout.local" value="1" />
           <entry key="git.branch.checkout.remote" value="2" />
           <entry key="git.branch.compare" value="2" />
           <entry key="git.branch.create.new" value="1" />
@@ -127,95 +383,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bitmex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="189" column="13" selection-start-line="189" selection-start-column="13" selection-end-line="189" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmailHandler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/market.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="290" column="19" lean-forward="true" selection-start-line="290" selection-start-column="19" selection-end-line="290" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinanceTrader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/API_KEYS/sampleJSON.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controller.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/binance/helpers.py">
+        <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/games/game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="91">
+              <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
               <folding>
-                <element signature="e#16#33#0" expanded="true" />
+                <element signature="e#880#890#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binance/client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -238,12 +413,18 @@
       <find>test=</find>
       <find>limitOrderEnabled</find>
       <find>account</find>
+      <find>httpre</find>
+      <find>moves</find>
+      <find>friom telegram</find>
+      <find>from telegram</find>
     </findStrings>
     <replaceStrings>
       <replace>openBankFile</replace>
+      <replace>from python_telegram_bot_master.telegram</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/market maker master</dir>
+      <dir>$PROJECT_DIR$/python_telegram_bot_master</dir>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
@@ -251,7 +432,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Develop" />
       </map>
     </option>
     <favorite-branches>
@@ -292,15 +473,48 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Bitmex.py" />
         <option value="$PROJECT_DIR$/bank.txt" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/bank.py" />
         <option value="$PROJECT_DIR$/market.py" />
-        <option value="$PROJECT_DIR$/BinanceTrader.py" />
         <option value="$PROJECT_DIR$/API_KEYS/sampleJSON.json" />
-        <option value="$PROJECT_DIR$/controller.py" />
         <option value="$PROJECT_DIR$/binance/helpers.py" />
+        <option value="$PROJECT_DIR$/Bitmex.py" />
+        <option value="$PROJECT_DIR$/Binance2.py" />
+        <option value="$PROJECT_DIR$/marketOrderMarket.py" />
+        <option value="$PROJECT_DIR$/BinanceTrader.py" />
+        <option value="$PROJECT_DIR$/gmailHandler.py" />
+        <option value="$PROJECT_DIR$/controller.py" />
+        <option value="$PROJECT_DIR$/python-telegram-bot/examples/CryptoMunee.py" />
+        <option value="$PROJECT_DIR$/python-telegram-bot/examples/TelegramAlerts.py" />
+        <option value="$PROJECT_DIR$/python-telegram-bot/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py" />
+        <option value="$PROJECT_DIR$/telegram/vendor/ptb_urllib3/urllib3/packages/six.py" />
+        <option value="$PROJECT_DIR$/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py" />
+        <option value="$PROJECT_DIR$/telegram/vendor/ptb_urllib3/urllib3/__init__.py" />
+        <option value="$PROJECT_DIR$/telegram/vendor/ptb_urllib3/urllib3/connection.py" />
+        <option value="$PROJECT_DIR$/telegram/vendor/ptb_urllib3/urllib3/response.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/user.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/chatphoto.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/chat.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/chatmember.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/photosize.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/audio.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/voice.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/document.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/animation.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/examples/conversationbot2.py" />
+        <option value="$PROJECT_DIR$/TelegramAlerts.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/sticker.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/video.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/contact.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/location.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/update.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/venue.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/videonote.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/inputfile.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/files/file.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/passport/credentials.py" />
+        <option value="$PROJECT_DIR$/python_telegram_bot_master/telegram/games/game.py" />
       </list>
     </option>
   </component>
@@ -311,14 +525,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1360" />
-    <option name="height" value="367" />
+    <option name="x" value="683" />
+    <option name="width" value="684" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -332,163 +547,30 @@
             <path>
               <item name="TradingViewTrader" type="b2602c69:ProjectViewProjectNode" />
               <item name="TradingViewTrader" type="462c0819:PsiDirectoryNode" />
-              <item name="bitmexApi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TradingViewTrader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TradingViewTrader" type="462c0819:PsiDirectoryNode" />
-              <item name="market maker master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TradingViewTrader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TradingViewTrader" type="462c0819:PsiDirectoryNode" />
-              <item name="market maker master" type="462c0819:PsiDirectoryNode" />
-              <item name="market_maker" type="462c0819:PsiDirectoryNode" />
+              <item name="python_telegram_bot_master" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="TradingViewTrader" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="TradingViewTrader" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="binance" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/python-telegram-bot" />
       <recent name="$PROJECT_DIR$/binance" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Bitmex.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/controller.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/gmailHandler.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/logger.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/market.py</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -607,19 +689,19 @@
       <option name="project" value="LOCAL" />
       <updated>1538024601599</updated>
     </task>
-    <task id="LOCAL-00004" summary="started on the bank object.">
-      <created>1537506901429</created>
+    <task id="LOCAL-00004" summary="Merge binance into develop stuff">
+      <created>1542609287306</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1537506901429</updated>
+      <updated>1542609287306</updated>
     </task>
-    <task id="LOCAL-00005" summary="Put the bank logging calls in place at the end of the marketOrder function. Planning on adding profit logging when we have some data to test with.">
-      <created>1537822746933</created>
+    <task id="LOCAL-00005" summary="Finishing the merge of Binance into Develop">
+      <created>1542611091480</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1537822746933</updated>
+      <updated>1542611091480</updated>
     </task>
     <task id="LOCAL-00006" summary="limitBuy(), marketBuy(), and getOrders() working">
       <created>1536214933914</created>
@@ -684,59 +766,36 @@
       <option name="project" value="LOCAL" />
       <updated>1536733568827</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26060605" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19621213" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.4939394" visible="true" weight="0.27580646" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.505303" side_tool="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4939394" weight="0.2629032" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.505303" side_tool="true" weight="0.53064513" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4939394" weight="0.019354839" />
       <window_info anchor="bottom" id="Python Console" order="4" sideWeight="0.49469697" weight="0.32903227" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49924242" weight="0.23225807" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49772727" weight="0.41451612" />
-      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49848485" weight="0.3951613" />
+      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49924242" weight="0.35" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49469697" weight="0.22741936" />
+      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49848485" weight="0.58225805" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" sideWeight="0.49924242" weight="0.32903227" />
       <window_info anchor="right" id="Database" order="0" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="SciView" order="2" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26060605" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49469697" visible="true" weight="0.4299517" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.505303" side_tool="true" visible="true" weight="0.4299517" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49469697" weight="0.5225806" />
-      <window_info anchor="bottom" id="Python Console" order="4" sideWeight="0.49621212" weight="0.32903227" />
-      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49924242" weight="0.23225807" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49848485" weight="0.41451612" />
-      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49848485" weight="0.3951613" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Database" order="0" weight="0.32954547" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="SciView" order="2" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -764,156 +823,319 @@
     <MESSAGE value="Put the bank logging calls in place at the end of the marketOrder function. Planning on adding profit logging when we have some data to test with. Limit order logging is in place but not tested on working limit orders." />
     <MESSAGE value="got the bank logging nicely for market orders, works well when limit orders go thru, but needs to be tested more. Ideas on profit logging coming soon." />
     <MESSAGE value="bank logging calls in place and working for market orders. need to be tested on working limit orders though." />
-    <option name="LAST_COMMIT_MESSAGE" value="bank logging calls in place and working for market orders. need to be tested on working limit orders though." />
+    <MESSAGE value="Merge binance into develop stuff" />
+    <MESSAGE value="Finishing the merge of Binance into Develop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finishing the merge of Binance into Develop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/BinanceTrader.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/controller.py</url>
-          <line>62</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/controller.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/BinanceTrader.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/extractedEmail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bank.txt" />
-    <entry file="file://$PROJECT_DIR$/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bitmexApi/bitmex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/httplib2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="1193" selection-start-line="1193" selection-end-line="1193" />
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="414">
+          <caret line="20915" column="49" selection-start-line="20915" selection-start-column="49" selection-end-line="20915" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/market.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="290" column="19" lean-forward="true" selection-start-line="290" selection-start-column="19" selection-end-line="290" selection-end-column="19" />
+        <state relative-caret-position="4230">
+          <caret line="290" column="19" selection-start-line="290" selection-start-column="19" selection-end-line="290" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/API_KEYS/sampleJSON.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9701">
-          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.5/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bitmex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="540">
           <caret line="189" column="13" selection-start-line="189" selection-start-column="13" selection-end-line="189" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmailHandler.py">
+    <entry file="file://$PROJECT_DIR$/bank.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="3390">
+          <caret line="226" column="17" selection-start-line="226" selection-start-column="17" selection-end-line="226" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binance/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3015">
+          <caret line="201" column="26" selection-start-line="201" selection-start-column="26" selection-end-line="201" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credentials.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/token.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinanceTrader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="155" column="42" selection-start-line="155" selection-start-column="42" selection-end-line="155" selection-end-column="42" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controller.py">
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/telegram/error.py" />
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot.egg-info/SOURCES.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="2040">
+          <caret line="136" column="36" selection-start-line="136" selection-start-column="36" selection-end-line="136" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/telegram/vendor/ptb_urllib3/urllib3/util/connection.py" />
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/telegram/vendor/ptb_urllib3/urllib3/response.py" />
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/telegram/utils/request.py" />
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/gmailHandler.py" />
+    <entry file="file://$PROJECT_DIR$/gmailHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="38" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="38" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binance/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinanceTrader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#58#95#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binance/helpers.py">
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py" />
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/telegram/vendor/ptb_urllib3/urllib3/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/telegram/vendor/ptb_urllib3/urllib3/packages/six.py" />
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/telegram/vendor/ptb_urllib3/urllib3/connection.py" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/telegram/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-telegram-bot/bot.py" />
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="181">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/chatphoto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/chatmember.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/photosize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/audio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/voice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/document.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/animation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/webhookinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/examples/conversationbot2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TelegramAlerts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
           <folding>
-            <element signature="e#16#33#0" expanded="true" />
+            <element signature="e#94#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/sticker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegram/ext/filters.py" />
+    <entry file="file://$PROJECT_DIR$/telegram/replykeyboardmarkup.py" />
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/location.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/venue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/videonote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/inputfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/passport/credentials.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/utils/webhookhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/files/video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_telegram_bot_master/telegram/games/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+          <folding>
+            <element signature="e#880#890#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,7 +2,7 @@
 
 from gmailHandler import gmailHandler
 from controller import controller
-from BinanceTrader import BinanceTrader
+from TelegramAlerts import TelegramAlerts
 
 
 
@@ -13,8 +13,12 @@ def main():
 
     #  CHANGE THIS TO GO FROM TESTNET TO LIVENET
     real_money = True
+    gmail = gmailHandler('credentials.json')
 
-    trader = controller(gmailHandler('credentials.json'), .001, .1, real_money)
+    telegramBot = TelegramAlerts(gmail)
+    telegramBot.run()
+
+    trader = controller(gmail, .001, .1, real_money)
 
     trader.importAPIKeys()
     trader.run()

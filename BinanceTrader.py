@@ -153,7 +153,7 @@ class BinanceTrader (market):
         symbols = self.market.get_exchange_info()['symbols']
         for item in symbols:
             if item['symbol'] == asset+currency:
-                daShit = item['filters'][1]['stepSize']
+                daShit = item['filters'][2]['stepSize']
                 print("%s stepSize: %s" % (asset+currency, daShit))
                 return float(daShit)
         print("error")

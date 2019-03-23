@@ -1,5 +1,8 @@
+import base64
 import time
+from email.mime.text import MIMEText
 
+from aptdaemon import errors
 from googleapiclient.discovery import build
 from httplib2 import Http
 from oauth2client import file, client, tools
@@ -74,3 +77,23 @@ class gmailHandler:
     def authEmail(self, email):
         return extractedEmail.getParamFromHeader(email['payload']['headers'], 'Subject').find(
             extractedEmail.email.boundaryString) != -1
+
+
+    def sendEmail(self, message):
+        try:
+            message = (self.gmailAPI.users().messages().send(userId='me', body=message).execute())
+            print
+            'Message Id: %s' % message['id']
+            return message
+        except errors.HttpError as error:
+            print
+            'An error occurred: %s' % error
+        return
+
+
+    def create_message(sender, subject, message_text):
+        message = MIMEText(message_text)
+        message['to'] = 'kalgofund@gmail.com'
+        message['from'] = 'kalgofund@gmail.com'
+        message['subject'] = subject
+        return {'raw': base64.urlsafe_b64encode(message.as_string())}

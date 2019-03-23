@@ -1,7 +1,6 @@
 import logger
 from Bitmex import Bitmex
 from BinanceTrader import BinanceTrader
-from market import market
 
 assetSubjectNumber = 0
 currencySubjectNumber = 1

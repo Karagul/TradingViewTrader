@@ -222,6 +222,7 @@ class market(ABC):
 
     def followingLimitOrder(self, type, asset, currency, orderQuantity, restricted=True, initial_price=None,
                             orderID=None, note=None):
+        global initialPrice
         try:
             previousLimitPrice = None
             initialPrice = initial_price
