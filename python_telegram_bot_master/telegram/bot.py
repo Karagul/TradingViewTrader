@@ -40,7 +40,7 @@ from python_telegram_bot_master.telegram import (User, Message, Update, Chat, Ch
                       Location, Venue, Contact, InputFile)
 from python_telegram_bot_master.telegram.error import InvalidToken, TelegramError
 from python_telegram_bot_master.telegram.utils.helpers import to_timestamp
-# from python_telegram_bot_master.telegram.utils.request import Request
+from python_telegram_bot_master.telegram.utils.request import Request
 
 logging.getLogger(__name__).addHandler(logging.NullHandler())
 

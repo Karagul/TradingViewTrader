@@ -22,7 +22,7 @@ class TelegramAlerts:
 
         global update_id
         # Telegram Bot Authorization Token
-        self.bot = python_telegram_bot_master.telegram.Bot('TOKEN')
+        self.bot = python_telegram_bot_master.telegram.Bot('814404627:fuxaznhaxers')
 
 
     def run(self):
@@ -37,6 +37,7 @@ class TelegramAlerts:
         logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
         while True:
+            print("hi")
             try:
                 self.getTradeData(self.bot)
             except python_telegram_bot_master.telegram.error.NetworkError:
@@ -58,6 +59,7 @@ class TelegramAlerts:
 
             if update.message:  # your bot can receive updates without messages
                 if update.message.text.startswith('#'):
+                    print("message starts with '#' ")
                     data = update.message.text.split("\n")
                     coin = data[0][1:]
                     tg1 = data[1]
