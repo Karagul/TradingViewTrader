@@ -36,7 +36,7 @@ class TelegramAlerts:
 
         logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
-        print("Telegram Account authorized:\nListening for Alerts")
+        print("Telegram Account authorized:\nListening for Alerts\n\n")
         while True:
 
             try:
@@ -51,7 +51,7 @@ class TelegramAlerts:
     def getTradeData(self, bot):
         """Grab the message parse the data and format for Gmail
         handler. subject looks like: '$$$ BUY BTC USD $$$' """
-        tgCount = 0
+        takeGains = []
 
         global update_id
         # Request updates after the last update_id
@@ -59,22 +59,34 @@ class TelegramAlerts:
             update_id = update.update_id + 1
 
             if update.message:  # your bot can receive updates without messages
+
                 text = update.message.text
-                if (("Buy" or "BUY" or "Entry" or "ENTRY") in text):
+                alertIdentifiers = ["BUY", "Buy", "Entry", "ENTRY"]
+                takeProfitIdentifiers = ["Tg","TG","Tp","TP"]
 
-                        print("message:\n\n%s\n\n" % text)
+                if any(x in text for x in alertIdentifiers):
 
-                        for line in text:
+                        print("message:\n\n%s\n" % text)
+
+                        lines = text.splitlines(False)
+                        for line in lines:
+
                             if "#" in line:
                                 coin = line[line.find("#"):]
-                                coin = coin[:line.find(" ")]
-                                print("Coin: " + coin + "")
 
-                            if ("Tg" or "TG" or "Tp" or "TP") in line:
-                                takeProfit = line[line.find("#"):]
-                                takeProfit = takeProfit[:line.find(" ")]
+                                if " " in line:
+                                    coin = coin[:line.find(" ")]
+
+                                print("Coin: " + coin + "\n")
+
+                            if any(x in line for x in takeProfitIdentifiers):
+                                takeProfit = line[line.find(" "):]
+
+                                if " " in line:
+                                    takeProfit = takeProfit[:line.find(" ")]
+
                                 print("Take profit: " + takeProfit + "\n")
-                                tgCount += 1
+                                takeGains.append(takeProfit)
 
 
 
@@ -86,9 +98,9 @@ class TelegramAlerts:
                         print(subject + "\n")
 
                         '''final determination of wether the alert is actually an alert.
-                         if we have 2 or more take profit indicator'''
-                        if tgCount > 1:
-                            alert = self.gmailController.createMessage(subject, " ")
+                         if we have 1 or more take profit indicator'''
+                        if len(takeGains) >= 1:
+                            alert = self.gmailController.createMessage(subject, takeGains[0])
                             self.gmailController.sendEmail(alert)
 
 
