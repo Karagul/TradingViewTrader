@@ -49,9 +49,9 @@ class TelegramAlerts:
 
 
     def getTradeData(self, bot):
-        """Grab the message if it starts with '#'
-        parse the data and format for Gmail handler.
-        subject looks like: '$$$ BUY BTC USD $$$' """
+        """Grab the message parse the data and format for Gmail
+        handler. subject looks like: '$$$ BUY BTC USD $$$' """
+        tgCount = 0
 
         global update_id
         # Request updates after the last update_id
@@ -60,14 +60,22 @@ class TelegramAlerts:
 
             if update.message:  # your bot can receive updates without messages
                 text = update.message.text
-                if (("Buy" or "BUY") in text):
+                if (("Buy" or "BUY" or "Entry" or "ENTRY") in text):
 
                         print("message:\n\n%s\n\n" % text)
 
                         for line in text:
                             if "#" in line:
-                                coin = line[line.find("#"): line.find("\n")]
-                                print(coin)
+                                coin = line[line.find("#"):]
+                                coin = coin[:line.find(" ")]
+                                print("Coin: " + coin + "")
+
+                            if ("Tg" or "TG" or "Tp" or "TP") in line:
+                                takeProfit = line[line.find("#"):]
+                                takeProfit = takeProfit[:line.find(" ")]
+                                print("Take profit: " + takeProfit + "\n")
+                                tgCount += 1
+
 
 
                         #TODO; add the money signs to subject when this is all figured out
@@ -77,7 +85,10 @@ class TelegramAlerts:
                         print(coin + "\n")
                         print(subject + "\n")
 
-                        alert = self.gmailController.createMessage(subject, " ")
-                        self.gmailController.sendEmail(alert)
+                        '''final determination of wether the alert is actually an alert.
+                         if we have 2 or more take profit indicator'''
+                        if tgCount > 1:
+                            alert = self.gmailController.createMessage(subject, " ")
+                            self.gmailController.sendEmail(alert)
 
 
