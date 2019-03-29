@@ -18,6 +18,8 @@ def main():
     telegramBot = TelegramAlerts(gmail)
     telegramBot.run()
 
+    #TODO: figure out how to run both at the same time
+
     trader = controller(gmail, .001, .1, real_money)
 
     trader.importAPIKeys()

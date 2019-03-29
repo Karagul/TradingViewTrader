@@ -91,7 +91,7 @@ class gmailHandler:
         return
 
 
-    def create_message(sender, subject, message_text):
+    def createMessage(sender, subject, message_text):
         message = MIMEText(message_text)
         message['to'] = 'kalgofund@gmail.com'
         message['from'] = 'kalgofund@gmail.com'

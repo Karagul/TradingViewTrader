@@ -22,7 +22,7 @@ class TelegramAlerts:
 
         global update_id
         # Telegram Bot Authorization Token
-        self.bot = python_telegram_bot_master.telegram.Bot('814404627:fuxaznhaxers')
+        self.bot = python_telegram_bot_master.telegram.Bot('814404627:AAE1cxiFDJdvnXD2bUloSyBh3r603j4mGKg')
 
 
     def run(self):
@@ -36,8 +36,9 @@ class TelegramAlerts:
 
         logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
+        print("Telegram Account authorized:\nListening for Alerts")
         while True:
-            print("hi")
+
             try:
                 self.getTradeData(self.bot)
             except python_telegram_bot_master.telegram.error.NetworkError:
@@ -58,14 +59,25 @@ class TelegramAlerts:
             update_id = update.update_id + 1
 
             if update.message:  # your bot can receive updates without messages
-                if update.message.text.startswith('#'):
-                    print("message starts with '#' ")
-                    data = update.message.text.split("\n")
-                    coin = data[0][1:]
-                    tg1 = data[1]
-                    tg2 = data[2]
-                    tg3 = data[3]
-                    stopLoss = data[4]
-                    self.gmailController.sendEmail("hi")
+                text = update.message.text
+                if (("Buy" or "BUY") in text):
+
+                        print("message:\n\n%s\n\n" % text)
+
+                        for line in text:
+                            if "#" in line:
+                                coin = line[line.find("#"): line.find("\n")]
+                                print(coin)
+
+
+                        #TODO; add the money signs to subject when this is all figured out
+                        #TODO: figure out coin pair for each trade
+
+                        subject = ("BUY %s BTC" % coin)
+                        print(coin + "\n")
+                        print(subject + "\n")
+
+                        alert = self.gmailController.createMessage(subject, " ")
+                        self.gmailController.sendEmail(alert)
 
 
