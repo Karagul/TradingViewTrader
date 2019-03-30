@@ -1,3 +1,5 @@
+from time import sleep
+
 import logger
 from Bitmex import Bitmex
 from BinanceTrader import BinanceTrader
@@ -34,6 +36,7 @@ class controller:
             self.marketControllers[market].connect()
 
         while True:
+            sleep(1)
             emails = self.gmailController.listen(-1)
             if len(emails) != 0:
                 for email in emails:

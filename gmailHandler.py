@@ -10,6 +10,8 @@ from oauth2client import file, client, tools
 import extractedEmail
 from extractedEmail import email
 
+from apiclient import errors
+
 SCOPES = 'https://www.googleapis.com/auth/gmail.modify'
 
 
@@ -96,4 +98,7 @@ class gmailHandler:
         message['to'] = 'kalgofund@gmail.com'
         message['from'] = 'kalgofund@gmail.com'
         message['subject'] = subject
-        return {'raw': base64.urlsafe_b64encode(message.as_string())}
+
+        b64_bytes = base64.urlsafe_b64encode(message.as_bytes())
+        b64_string = b64_bytes.decode()
+        return {'raw': b64_string}

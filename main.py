@@ -3,7 +3,7 @@
 from gmailHandler import gmailHandler
 from controller import controller
 from TelegramAlerts import TelegramAlerts
-
+import threading
 
 
 SCOPES = 'https://www.googleapis.com/auth/gmail.readonly'
@@ -16,17 +16,13 @@ def main():
     gmail = gmailHandler('credentials.json')
 
     telegramBot = TelegramAlerts(gmail)
-    telegramBot.run()
-
-    #TODO: figure out how to run both at the same time
-
     trader = controller(gmail, .001, .1, real_money)
 
     trader.importAPIKeys()
-    trader.run()
 
+    threading.Thread(target=telegramBot.run).start()
 
-
+    threading.Thread(target=trader.run).start()
 
 
 if __name__ == '__main__':

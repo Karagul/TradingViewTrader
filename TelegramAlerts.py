@@ -38,9 +38,15 @@ class TelegramAlerts:
 
         print("Telegram Account authorized:\nListening for Alerts\n\n")
         while True:
+            count = 0
 
             try:
                 self.getTradeData(self.bot)
+                sleep(1)
+                if count % 240 == 0:
+                    print("\n")
+                print("|", end="", flush=True)
+                count = count + 1
             except python_telegram_bot_master.telegram.error.NetworkError:
                 sleep(1)
             except python_telegram_bot_master.telegram.error.Unauthorized:
@@ -72,7 +78,7 @@ class TelegramAlerts:
                         for line in lines:
 
                             if "#" in line:
-                                coin = line[line.find("#"):]
+                                coin = line[line.find("#")+1:]
 
                                 if " " in line:
                                     coin = coin[:line.find(" ")]
@@ -93,7 +99,7 @@ class TelegramAlerts:
                         #TODO; add the money signs to subject when this is all figured out
                         #TODO: figure out coin pair for each trade
 
-                        subject = ("BUY %s BTC" % coin)
+                        subject = ("$$ %s BTC LONG $$" % coin)
                         print(coin + "\n")
                         print(subject + "\n")
 
