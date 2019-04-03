@@ -42,7 +42,7 @@ class TelegramAlerts:
 
             try:
                 self.getTradeData(self.bot)
-                sleep(1)
+                sleep(3)
                 if count % 240 == 0:
                     print("\n")
                 print("|", end="", flush=True)
@@ -99,11 +99,11 @@ class TelegramAlerts:
                         #TODO; add the money signs to subject when this is all figured out
                         #TODO: figure out coin pair for each trade
 
-                        subject = ("$$ %s BTC LONG $$" % coin)
+                        subject = ("$$ %s BTC LONG BINANCE $$" % coin)
                         print(coin + "\n")
                         print(subject + "\n")
 
-                        '''final determination of wether the alert is actually an alert.
+                        '''final determination of whether the alert is actually an alert.
                          if we have 1 or more take profit indicator'''
                         if len(takeGains) >= 1:
                             alert = self.gmailController.createMessage(subject, takeGains[0])

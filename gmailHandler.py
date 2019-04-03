@@ -19,8 +19,8 @@ class gmailHandler:
     label = 'inbox'
     fromFilter = None
     gmailAPI = None
-    refreshTime = 1
-    real_money = True
+    refreshTime = 5
+    real_money = False
     readEmailCommand = {'removeLabelIds': ['UNREAD'], 'addLabelIds': []}
     lastReceivedEmails = None
 
@@ -95,9 +95,9 @@ class gmailHandler:
 
     def createMessage(sender, subject, message_text):
         message = MIMEText(message_text)
-        message['to'] = 'kalgofund@gmail.com'
-        message['from'] = 'kalgofund@gmail.com'
-        message['subject'] = subject
+        message['To'] = 'kalgofund@gmail.com'
+        message['From'] = 'kalgofund@gmail.com'
+        message['Subject'] = subject
 
         b64_bytes = base64.urlsafe_b64encode(message.as_bytes())
         b64_string = b64_bytes.decode()
