@@ -48,10 +48,7 @@ class gmailHandler:
                 return self.readEmails(response)
             else:
                 time.sleep(self.refreshTime)
-                if count % 240 == 0:
-                    print("\n")
-                print(".", end="", flush=True)
-                count = count + 1
+
 
     def readEmails(self, emails):
         messageIds = emails['messages']

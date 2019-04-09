@@ -39,7 +39,7 @@ class BinanceTrader (market):
                 stepSize = self.getStepSize(asset, currency)
                 orderSize = self.calculateOrderSize(orderSize, stepSize)
 
-                if currentAmount > orderSize:
+                if currentAmount > (orderSize+(stepSize *5)):
                     print("attempted to buy %s%s while already in a position" % (asset, currency))
                     return True
 

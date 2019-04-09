@@ -2573,3 +2573,325 @@ Exchange: BINANCE:
 Avalable balance: 0.007
 Time: 2019-04-03 16:54:04.085742
 
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-03 19:24:47.316821
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-03 23:06:40.011184
+
+Exchange: 1.32917:
+Avalable balance: Binance
+Time: 2019-04-03 23:06:43.312694
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 1
+Time: 2019-04-03 23:06:43.474994
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-03 23:11:59.679065
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-03 23:12:28.544000
+
+Exchange: 1.32785:
+Avalable balance: Binance
+Time: 2019-04-03 23:12:31.508060
+
+Exchange: BINANCE:
+Coin: GVTBTC
+Amount: 1
+Time: 2019-04-03 23:12:31.653740
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-03 23:42:19.041261
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-04 10:03:37.226870
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-04 10:06:03.233162
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-04 10:06:38.073396
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-04 10:07:24.840749
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-04 10:08:42.532585
+
+Exchange: 47.952:
+Avalable balance: Binance
+Time: 2019-04-04 10:08:45.620724
+
+Exchange: BINANCE:
+Coin: POLYBTC
+Amount: 48
+Time: 2019-04-04 10:08:45.774168
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-04 10:17:37.522526
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-04 10:18:08.225760
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-06 12:28:03.875581
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-06 12:28:16.815546
+
+Exchange: 352.647:
+Avalable balance: Binance
+Time: 2019-04-06 12:28:19.952222
+
+Exchange: BINANCE:
+Coin: IOSTBTC
+Amount: 353
+Time: 2019-04-06 12:28:20.120097
+
+Exchange: 705.294:
+Avalable balance: Binance
+Time: 2019-04-06 12:28:22.158771
+
+Exchange: BINANCE:
+Coin: IOSTBTC
+Amount: 353
+Time: 2019-04-06 12:28:22.331855
+
+Exchange: 153.846:
+Avalable balance: Binance
+Time: 2019-04-06 12:30:48.812350
+
+Exchange: BINANCE:
+Coin: GTOBTC
+Amount: 154
+Time: 2019-04-06 12:30:48.955254
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:03:30.352621
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:03:44.186778
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:06:15.296750
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:06:55.078417
+
+Exchange: 153.846:
+Avalable balance: Binance
+Time: 2019-04-07 12:08:16.415610
+
+Exchange: BINANCE:
+Coin: VIBBTC
+Amount: 154
+Time: 2019-04-07 12:08:26.937523
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:11:25.293102
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:11:30.145082
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:14:00.321210
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:15:43.144768
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:16:07.658621
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:23:38.427699
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:24:54.607681
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:25:44.952814
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:26:49.234109
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:44:33.760172
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:46:31.570027
+
+Exchange: 88.911:
+Avalable balance: Binance
+Time: 2019-04-07 12:46:35.252775
+
+Exchange: BINANCE:
+Coin: SYSBTC
+Amount: 89
+Time: 2019-04-07 12:46:35.402979
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 12:49:00.560541
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 13:03:38.709411
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 13:04:56.144488
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 13:05:45.415426
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 13:06:45.529550
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-07 13:19:45.663383
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-08 23:34:55.222809
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-08 23:38:57.096450
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-08 23:47:21.402941
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-08 23:47:44.594505
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-08 23:48:06.577027
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-08 23:49:12.917215
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-08 23:51:17.023938
+
+Exchange: 93.906:
+Avalable balance: Binance
+Time: 2019-04-08 23:51:25.719822
+
+Exchange: BINANCE:
+Coin: POWRBTC
+Amount: 49
+Time: 2019-04-08 23:51:25.965831
+
+Exchange: 0.93906:
+Avalable balance: Binance
+Time: 2019-04-08 23:51:54.044102
+
+Exchange: BINANCE:
+Coin: NEOBTC
+Amount: 0
+Time: 2019-04-08 23:51:54.276688
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:08:46.859848
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:09:06.427183
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:09:11.713714
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:10:20.756591
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:12:04.990627
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:29:18.642811
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:30:08.785575
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:30:48.949979
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:31:50.940974
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:39:19.143423
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:40:04.109382
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:41:43.235713
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:42:22.156213
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:45:27.181080
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:45:37.994927
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-04-09 00:45:49.738759
+
