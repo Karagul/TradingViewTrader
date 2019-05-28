@@ -2,11 +2,14 @@
 # -*- coding: utf-8 -*-
 
 '''$$ billz yall'''
-# from python_telegram_bot_master.telegram import Bot
-import python_telegram_bot_master.telegram
+
+import telegram
+from telegram import Bot
 import logging
 from time import sleep
-
+from telethon.sync import TelegramClient
+from telethon import functions, types
+from telethon.tl.functions.messages import GetHistoryRequest
 
 update_id = None
 
@@ -18,11 +21,31 @@ class TelegramAlerts:
 
     def __init__(self, gmailHandler):
 
+        '''Telegram api keys and channel name are hardcoded'''
+        telegramClient = TelegramClient('kcapbot', '724640', '71b22453559c8403882e88f990be5c77')
+        telegramClient.connect()
+        channelEntity = telegramClient.get_entity('MCP_binance')
+
+        posts = telegramClient(GetHistoryRequest(
+            peer=channelEntity,
+            limit=1,
+            offset_date=None,
+            offset_id=0,
+            max_id=0,
+            min_id=0,
+            add_offset=0,
+            hash=0))
+
+        print(posts.messages[0].message)
+
+
+
+
         self.gmailController = gmailHandler
 
         global update_id
         # Telegram Bot Authorization Token
-        self.bot = python_telegram_bot_master.telegram.Bot('814404627:AAE1cxiFDJdvnXD2bUloSyBh3r603j4mGKg')
+        self.bot = Bot('814404627:AAE1cxiFDJdvnXD2bUloSyBh3r603j4mGKg')
 
 
     def run(self):
@@ -43,9 +66,9 @@ class TelegramAlerts:
                 self.getTradeData(self.bot)
                 sleep(3)
 
-            except python_telegram_bot_master.telegram.error.NetworkError:
+            except telegram.error.NetworkError:
                 sleep(1)
-            except python_telegram_bot_master.telegram.error.Unauthorized:
+            except telegram.error.Unauthorized:
                 # The user has removed or blocked the bot.
                 update_id += 1
 
@@ -56,12 +79,8 @@ class TelegramAlerts:
         for update in bot.get_updates(offset=update_id, timeout=10):
             update_id = update.update_id + 1
 
-            if update.channel_post is not None:
-                self.parseMessage(update.message.channel_post)
-
-            if update.message and update.message.text is not None:  # your bot can receive updates without messages
-                self.parseMessage(update.message.text)
-
+            if update is None:
+                return
 
 
     def parseMessage(self, text):
