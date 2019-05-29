@@ -7,7 +7,8 @@ import telegram
 from telegram import Bot
 import logging
 from time import sleep
-from telethon.sync import TelegramClient
+from telethon import TelegramClient, events
+
 from telethon import functions, types
 from telethon.tl.functions.messages import GetHistoryRequest
 
@@ -17,73 +18,45 @@ update_id = None
 class TelegramAlerts:
 
     gmailController = None
-    bot = None
+    channel = None
+    telegramClient = None
 
     def __init__(self, gmailHandler):
 
-        '''Telegram api keys and channel name are hardcoded'''
-        telegramClient = TelegramClient('kcapbot', '724640', '71b22453559c8403882e88f990be5c77')
-        telegramClient.connect()
-        channelEntity = telegramClient.get_entity('MCP_binance')
-
-        posts = telegramClient(GetHistoryRequest(
-            peer=channelEntity,
-            limit=1,
-            offset_date=None,
-            offset_id=0,
-            max_id=0,
-            min_id=0,
-            add_offset=0,
-            hash=0))
-
-        print(posts.messages[0].message)
-
-
-
-
         self.gmailController = gmailHandler
 
-        global update_id
-        # Telegram Bot Authorization Token
-        self.bot = Bot('814404627:AAE1cxiFDJdvnXD2bUloSyBh3r603j4mGKg')
+
+        '''Telegram api keys and channel name are hardcoded'''
+        #TODO: put these in the api key file
+
+        self.telegramClient = TelegramClient('kcapbot', '724640', '71b22453559c8403882e88f990be5c77')
+        self.telegramClient.connect
+
+        self.channel = self.telegramClient.get_entity('MCP_binance')    #this call uses the '@username' to to create an entity
+                                                                    #TODO: get Tylers vip group name and see if we can hack in.
+
 
 
     def run(self):
+        #
+        # posts = telegramClient(GetHistoryRequest(
+        #     peer=self.channel,
+        #     limit=1,
+        #     offset_date=None,
+        #     offset_id=0,
+        #     max_id=0,
+        #     min_id=0,
+        #     add_offset=0,
+        #     hash=0))
 
-        # get the first pending update_id, this is so we can skip over it in case
-        # we get an "Unauthorized" exception.
-        try:
-            update_id = self.bot.get_updates()[0].update_id
-        except IndexError:
-            update_id = None
+        @self.telegramClient.on(events.NewMessage)
+        async def my_event_handler(event):
+            parseMessage(self, event.raw_text)
 
-        logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-
-        print("Telegram Account authorized:\nListening for Alerts\n\n")
-        while True:
-
-            try:
-                self.getTradeData(self.bot)
-                sleep(3)
-
-            except telegram.error.NetworkError:
-                sleep(1)
-            except telegram.error.Unauthorized:
-                # The user has removed or blocked the bot.
-                update_id += 1
+        self.telegramClient.start()
 
 
-    def getTradeData(self, bot):
-        global update_id
-        # Request updates after the last update_id
-        for update in bot.get_updates(offset=update_id, timeout=10):
-            update_id = update.update_id + 1
-
-            if update is None:
-                return
-
-
-    def parseMessage(self, text):
+def parseMessage(self, text):
         """Grab the message parse the data and format for Gmail
         handler. subject looks like: '$$$ BUY BTC USD $$$' """
 
