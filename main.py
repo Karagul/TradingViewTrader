@@ -16,12 +16,13 @@ def main():
     real_money = False
     gmail = gmailHandler('credentials.json')
 
-    telegramBot = TelegramAlerts(gmail)
     trader = controller(gmail, .001, .1, real_money)
     trader.importAPIKeys()
 
-    telegramThread = threading.Thread(target=telegramBot.run).start()
     traderThread = threading.Thread(target=trader.run).start()
+
+    telegramBot = TelegramAlerts(gmail)
+    telegramThread = threading.Thread(target=telegramBot.run).start()
 
 
     while True:
@@ -39,7 +40,7 @@ def main():
                     print("\n")
                 print(".", end="", flush=True)
                 count = count + 1
-                sleep(10)
+                sleep(1)
 
         except Exception as e:
             print(e)

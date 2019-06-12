@@ -3051,3 +3051,275 @@ Exchange: BINANCE:
 Avalable balance: 0.007
 Time: 2019-05-28 21:18:02.793832
 
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-28 21:26:26.026721
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-28 21:29:42.810797
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-29 09:54:09.746016
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-29 14:17:01.299612
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 13:31:22.001183
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 13:32:13.941768
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 13:32:59.310663
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 13:41:54.630944
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 13:42:42.092177
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 13:44:30.339914
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 13:46:36.823405
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 13:54:53.088077
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 13:56:29.921745
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:01:31.767771
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:04:37.333541
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:05:30.491085
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:07:07.047290
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:07:23.886463
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:07:35.336228
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:10:05.725063
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:11:08.179026
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:13:36.917547
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:13:59.970136
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:18:24.702372
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:18:44.853883
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 14:18:58.590398
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-05-30 16:13:11.102039
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:14:02.560808
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:15:38.920807
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:16:24.997909
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:17:35.396126
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:18:05.320002
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:18:21.381357
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:22:11.506997
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:54:16.226088
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:56:50.031062
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 14:58:07.285212
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 15:03:31.352458
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 15:04:48.554861
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 15:05:42.620005
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 22:36:43.711327
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 22:47:40.756357
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-08 22:51:05.253277
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 02:27:32.223483
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 02:28:21.795338
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 02:35:08.955240
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 02:37:14.158746
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 02:38:14.985519
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 02:44:10.753321
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 02:45:27.726803
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 02:49:20.821085
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 17:57:40.473688
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 18:34:03.889109
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 18:34:49.309735
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 19:00:17.349700
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 19:01:50.671247
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 19:04:07.242596
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 19:07:32.275774
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 19:20:10.371435
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 19:28:36.393311
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 19:29:15.406944
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-09 19:33:48.971737
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-10 11:33:26.979982
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-10 11:38:11.847069
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-11 22:56:52.758446
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-11 23:02:02.891453
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-11 23:13:27.416580
+
+Exchange: BINANCE:
+Avalable balance: 0.007
+Time: 2019-06-11 23:16:56.470279
+

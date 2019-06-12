@@ -1,18 +1,8 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+'''Alexander McKee'''
+'''Class for listening to Telegram chat messages and parsing for email alerts'''
 
-'''$$ billz yall'''
-
-import telegram
-from telegram import Bot
-import logging
-from time import sleep
-from telethon import TelegramClient, events
-
-from telethon import functions, types
-from telethon.tl.functions.messages import GetHistoryRequest
-
-update_id = None
+from telethon.sync import TelegramClient
+from telethon import events
 
 
 class TelegramAlerts:
@@ -20,43 +10,37 @@ class TelegramAlerts:
     gmailController = None
     channel = None
     telegramClient = None
+    message = None
+    api_id = '724640'
+    api_hash = '71b22453559c8403882e88f990be5c77'
+
 
     def __init__(self, gmailHandler):
 
         self.gmailController = gmailHandler
 
 
-        '''Telegram api keys and channel name are hardcoded'''
-        #TODO: put these in the api key file
+        with TelegramClient('name', self.api_id, self.api_hash) as client:
+            self.telegramClient = client
+            client.send_message('me', 'New Telegram bot created, listening for alerts...')
+            print('Telegram account authorized')
 
-        self.telegramClient = TelegramClient('kcapbot', '724640', '71b22453559c8403882e88f990be5c77')
-        self.telegramClient.connect
-
-        self.channel = self.telegramClient.get_entity('MCP_binance')    #this call uses the '@username' to to create an entity
-                                                                    #TODO: get Tylers vip group name and see if we can hack in.
+            self.message = self.run()
 
 
 
     def run(self):
-        #
-        # posts = telegramClient(GetHistoryRequest(
-        #     peer=self.channel,
-        #     limit=1,
-        #     offset_date=None,
-        #     offset_id=0,
-        #     max_id=0,
-        #     min_id=0,
-        #     add_offset=0,
-        #     hash=0))
+        @self.telegramClient.on(events.NewMessage())
+        async def listen(event):
+            message = await event.get_chat()
+            print(message)
+            return message
 
-        @self.telegramClient.on(events.NewMessage)
-        async def my_event_handler(event):
-            parseMessage(self, event.raw_text)
-
-        self.telegramClient.start()
+        self.telegramClient.run_until_disconnected()
 
 
-def parseMessage(self, text):
+
+    def parseMessage(self, text):
         """Grab the message parse the data and format for Gmail
         handler. subject looks like: '$$$ BUY BTC USD $$$' """
 
